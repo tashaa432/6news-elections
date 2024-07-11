@@ -7,10 +7,10 @@ session_start();
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Calculator - 6News Elections</title>
+    <title>Calculator - 6 News Elections</title>
 </head>
 <body>
-    <h1>6News Election Calculator</h1>
+    <h1>6 News Election Calculator</h1>
     
     <form method="post">
         <label for="electorate">Select Electorate:</label>

@@ -27,10 +27,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Settings - 6News Election Calculator</title>
+    <title>Settings - 6 News Election Calculator</title>
 </head>
 <body>
-    <h1>Settings - 6News Election Calculator</h1>
+    <h1>Settings - 6 News Election Calculator</h1>
     <h2>Electorates</h2>
     
     <form method="post">
